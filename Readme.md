@@ -1,3 +1,3 @@
 # Arduino barled
 
-Sinceramente não sei se precisava de resistores. Mas "funcionou" sem.
+Precisava de resistores. Mas "funcionou" sem.
